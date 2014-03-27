@@ -37,7 +37,6 @@ n m // n은 첫 번째 다항식의 항의 수 (위의 예에서 n의 값은 2)
 2 0
 
 
-
 2.c의 내용(polynomial만, postfix)
 COMP216-002 자료구조응용
 LAB #7
