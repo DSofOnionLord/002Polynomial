@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Linked List & Polynomial
 typedef struct poly *polyp;
 struct poly
 {
